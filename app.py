@@ -29,6 +29,11 @@ st.markdown("""
 
 st.markdown("<br>", unsafe_allow_html=True)
 
+st.sidebar.markdown("### 👤 Arturo Aguilar")
+st.sidebar.caption("Senior Commercial & Financial Analytics Engineer · 7+ años")
+st.sidebar.divider()
+st.sidebar.markdown("**Navegación:**")
+
 seccion = st.sidebar.radio("Sección", [
     "🏠  Presentación",
     "1 · Planificación de Producción",
