@@ -87,7 +87,7 @@ if seccion == "🏠  Presentación":
     <div class="pres-box">
       <div class="pres-eyebrow">Simulador Empresarial · OC Shoes</div>
       <div class="pres-name">Portafolio de <span>Ing. Arturo Aguilar</span></div>
-      <div class="pres-role">Data Scientist · Supply Chain & Commercial Analytics</div>
+      <div class="pres-role">Senior Commercial & Financial Analytics Engineer</div>
 
       <div class="pres-obj-title">Objetivo del Proyecto</div>
       <div class="pres-obj">
