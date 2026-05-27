@@ -35,6 +35,7 @@ st.sidebar.divider()
 st.sidebar.markdown("**Navegación:**")
 
 seccion = st.sidebar.radio("Sección", [
+  "Sección"
     "🏠  Presentación",
     "1 · Planificación de Producción",
     "2 · Logística y Distribución",
